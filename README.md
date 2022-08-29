@@ -8,6 +8,6 @@
 * XML parsing
 
 ## Screenshots
-![alt text](Screenshots/image1.png "Currency rate table")![alt text](Screenshots/image2.png "Favorite currencies")
-![alt text](Screenshots/image3.png "Currency converter")![alt text](Screenshots/image4.png "Convert USD to EUR")
-![alt text](Screenshots/image5.png "Convert EUR to USD")
+![alt text](Screenshots/1.png "Currency rate table")![alt text](Screenshots/2.png "Favorite currencies")
+![alt text](Screenshots/3.png "Currency converter")![alt text](Screenshots/4.png "Convert USD to EUR")
+![alt text](Screenshots/5.png "Convert EUR to USD")
