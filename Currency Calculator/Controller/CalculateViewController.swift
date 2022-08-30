@@ -8,7 +8,7 @@
 import UIKit
 import DropDown
 
-class CalculateViewController: UIViewController {
+final class CalculateViewController: UIViewController {
     @IBOutlet weak var firstCurrencyDDview: UIView!
     @IBOutlet weak var firstCurrencyLabel: UILabel!
     @IBOutlet weak var currencyTextField: UITextField!

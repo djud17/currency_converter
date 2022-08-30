@@ -7,7 +7,7 @@
 
 import UIKit
 
-class CustomCell: UITableViewCell {
+final class CustomCell: UITableViewCell {
     @IBOutlet weak var favoriteButton: UIButton!
     @IBOutlet weak var charCodeLabel: UILabel!
     @IBOutlet weak var currencyNameLabel: UILabel!

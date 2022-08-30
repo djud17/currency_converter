@@ -7,7 +7,7 @@
 
 import UIKit
 
-class FavoritesViewController: UIViewController {
+final class FavoritesViewController: UIViewController {
     @IBOutlet weak var favoritesTableView: UITableView!
     
     var favoriteCurrencies: [FavoriteCurrency] = [] {

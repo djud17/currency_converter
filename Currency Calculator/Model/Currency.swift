@@ -15,7 +15,7 @@ struct Currrency {
     let nominal: String
 }
 
-class FavoriteCurrency: Object {
+final class FavoriteCurrency: Object {
     @objc dynamic var numCode: String = ""
     @objc dynamic var charCode: String = ""
     @objc dynamic var name: String = ""

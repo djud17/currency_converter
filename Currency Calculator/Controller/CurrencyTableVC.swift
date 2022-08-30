@@ -7,7 +7,7 @@
 
 import UIKit
 
-class CurrencyTableViewController: UIViewController {
+final class CurrencyTableViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
     
